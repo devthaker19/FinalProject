@@ -17,9 +17,19 @@ Welcome! This is our Final Project repo. Here you can find all you need to know 
   * Editing and refining code <br />
 
 # Introduction
-This program is an interactive messaging software.  It was implemented using a combination of client- server sockets, multithreading, file I/O, and finally, displayed using JavaFX. After running it, users are met with a login page where they are asked to put in their username and password. If the user does not currently hold an account, they have the option to sign up. When the sign up button is clicked, a new page opens up where the user can enter all of their information to create an account. It is important to note that if the user is entering information that already exists, there will be an error preventing them from creating the account with that information. Once the user enters the information they can continue and create the account then login. Once they login, they can begin sending messeges to other users, while also viewing their message history on screen. Once they are done, they can logout, ending the whole process.  
+This program is an interactive messaging software.  It was implemented using a combination of client- server sockets, multithreading, file I/O, and finally, displayed using JavaFX. After running it, chat window is displayed, where you can chat with the server. Additionally, an About us button is featured which displays information about the app. Once they login, they can begin sending messeges to other users, while also viewing their message history on screen. Additionally, a fun button is featured on the client side, which runs an animation when clicked on it. 
 # Photo Gallery
+* The client side <br />
 
+* The server side <br />
+
+* 2nd Scene on client side featuring information about OTU <br />
+
+# Video Demonstration 
+
+# How to Run the Project (Step-By-Step)
+
+# Extra Notes
 
 ## References
 https://www.youtube.com/watch?v=_1nqY-DKP9A&t=2584s
