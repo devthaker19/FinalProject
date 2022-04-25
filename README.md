@@ -25,9 +25,20 @@ This program is an interactive messaging software.  It was implemented using a c
 
 * 2nd Scene on client side featuring information about OTU <br />
 
-# Video Demonstration 
+# Video Demonstration
+Client ane server banev alag javafx project tareeke 
 
 # How to Run the Project (Step-By-Step)
+Client ane server banev alag javafx project tareeke 
+* First export the files in this repository to a zip file. 
+
+* Once opened. Open the ClientSide folder and ServerSide folder as seperate projects.
+
+* Run the Server side project first and then run the Client side project.
+
+* Wait for them to connect, once they are connected, a message "Server connected: will be displayed on the console.
+
+* Start chatting.
 
 # Extra Notes
 
